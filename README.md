@@ -22,7 +22,7 @@ What I want this extension to accomplish is as follows,
 
 1. Notify me when a AI video is detected.
 2. Verify video quality and authenticity and if it is reposted by another creator, to notify me that this video "looks like it came from a different creator"
-3. Monitor actively each video every 6-10 seconds for any alterations that maybe inserted if the video is a repost from an original creator
+3. Monitor actively each video every 6-10 seconds for any alterations that may be inserted if the video is a repost from an original creator
 
 these are the hard wants of this extension to become, but all of these points come with big challenges to overcome. 
 This is my journey. 
