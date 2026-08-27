@@ -48,6 +48,18 @@ Now to see your notepad hidden file extension, you must click view on the top of
        width="100%" />
 </p>
 
+after completing the .json file, I needed to repeat the text file in the contents folder for the .js file (JavaScript)
+Now betweeen the .json file and this .js file there is code you must write, I am not skipping it but because it is a work in progress the code is private in my other Repo and I will not be sharing it. Although with research you can easily create or even use already public formats of these codes. I had a lot of trial and error writing these using what i found as reference. Anyways this is the file and what it looks like when changed and make sure to delete the .txt end name 
+
+
+</p>
+
+<p align="center">
+  <img src="assests/javascript.png"
+       alt="javascript"
+       width="100%" />
+</p>
+
 
 
 
