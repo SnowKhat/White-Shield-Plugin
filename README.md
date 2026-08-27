@@ -1,4 +1,15 @@
+
+<p align="center">
+  <img src="assets/white_shield_banner.png"
+       alt="White Shield - Children's Video Integrity & Safety"
+       width="100%" />
+</p>
+
+
 # White-Shield-Plugin
+
+
+
 Chrome Extension to detect videos on Youtube for AI intergration, repost from original creator and scan for any inserted portions that may contain alterations to original video
 
 
