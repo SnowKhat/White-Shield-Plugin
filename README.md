@@ -14,7 +14,7 @@ Chrome Extension to detect videos on Youtube for AI intergration, repost from or
 
 # Why was this created? 
 
-As a father, I found more and more videos my children viewed to be made with AI or a video of a known popular creator to be reposted by a different Poster and then running into the danger of having my children watch an edited video with something dangerous or potential something meant for an older audience to be placed in the middle of the video and shown to them. Naturally this caused a worry for myself and I searched for any active filters that can monitor and inform me about videos that could have these issues. I come to find out that in this day and age of AI and everything being ran through the internet, there is not really anything like what i have been looking for in the market yet. 
+As a father, I found more and more videos my children viewed to be made with AI or a video of a known popular creator to be reposted by a different poster and then running into the danger of having my children watch an edited video with something dangerous or potentially something meant for an older audience to be placed in the middle of the video and shown to them. Naturally this caused a worry for myself and I searched for any active filters that can monitor and inform me about videos that could have these issues. I come to find out that in this day and age of AI and everything being ran through the internet, there is not really anything like what I have been looking for in the market yet. 
 
 And so, I decided to create something for my own children, for their safety to watch what they are meant to watch specifically on Youtube and have it actively monitor each video playing for these subjects that i pointed out. 
 
@@ -31,11 +31,55 @@ This is my journey.
 
 
 
-I have taken a long time to  write, test and push my code making sure everything is correct and while I have used AI to assist in checking on my script. I can admit I have done this old school with many many hours of youtube and good o' research. This is still a work in progress but I have currently made a functioning beta extension that has specific permission to only read youtube videos you play and make sure it can detect exactly what video it is. 
 
 
-## The start of the Journey
-After connecting my github to my Desktop App and creating a folder to start the process, it looked like this 
+
+
+I have taken a long time to  write, test and push my code making sure everything is correct and while I have used AI to assist in checking on my script. I can admit I have done this old school with many many hours of YouTube and good o' research. This is still a work in progress but I have currently made a functioning beta extension that has specific permission to only read YouTube videos you play and make sure it can detect exactly what video it is. 
+
+# Accomplished
+
+
+🔵 **Chrome Manifest V3 extension prototype**  
+🔵 **YouTube-first browser integration**  
+🔵 **Restricted YouTube host permissions**  
+🔵 **Minimal Chrome permission model**  
+🔵 **Current YouTube video detection**  
+🔵 **YouTube single-page navigation support**  
+🔵 **Video ID, title, channel & URL extraction**  
+🔵 **White Shield extension popup**  
+🔵 **Popup ↔ content-script messaging**  
+🔵 **Active YouTube `<video>` element access**  
+🔵 **Live in-browser video frame capture**  
+🔵 **Frame resolution & timestamp capture**
+
+# Next up to test
+
+🟣 **Timeline frame sampling** —   
+🟣 Child-directed content identification  
+🟣 Unsafe inserted-segment classification  
+🟣 AI-generated visual content detection  
+🟣 Synthetic / AI voice detection  
+🟣 Creator identity verification  
+🟣 Repost / near-duplicate detection  
+🟣 Original-vs-repost timeline comparison  
+🟣 Inserted / altered segment detection  
+🟣 Video fingerprinting  
+🟣 Content Credentials / provenance checks  
+🟣 Explainable confidence scoring  
+🟣 Ahead-of-playback safety warnings — FUTURE GOAL!! 
+
+
+
+# Organization  
+
+ As I organize my photos for this project I will be updating all my steps without any code. Most of my time is spend on my Private Repo, This is so you can follow my Journey. 
+
+
+
+# The start of the Journey
+
+After connecting my GitHub to my Desktop App and creating a folder to start the process, it looked like this. 
 
 <p align="center">
   <img src="assests/1st_photo.png"
@@ -63,7 +107,7 @@ Now to see your notepad hidden file extension, you must click view on the top of
        width="100%" />
 </p>
 
-after completing the .json file, I needed to repeat the text file in the contents folder for the .js file (JavaScript)
+After completing the .json file, I needed to repeat the text file in the contents folder for the .js file (JavaScript)
 Now betweeen the .json file and this .js file there is code you must write, I am not skipping it but because it is a work in progress the code is private in my other Repo and I will not be sharing it. Although with research you can easily create or even use already public formats of these codes. I had a lot of trial and error writing these using what i found as reference. Anyways this is the file and what it looks like when changed and make sure to delete the .txt end name 
 
 
