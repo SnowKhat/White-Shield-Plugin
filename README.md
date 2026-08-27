@@ -122,6 +122,40 @@ Now betweeen the .json file and this .js file there is code you must write, I am
 
 
 
+# draft in progress to be organized
+
+
+# ---------------------------------------------------------------------------------------------------------------------
+
+# not detecting
+
+</p>
+
+<p align="center">
+  <img src="assests/notdetecting.png"
+       alt=" Failed to detect"
+       width="100%" />
+</p>
+
+
+
+
+
+
+# latest test
+
+</p>
+
+<p align="center">
+  <img src="assests/Testframe_captured.png"
+       alt="Final test thus far"
+       width="100%" />
+</p>
+
+
+
+
+
 ## Source Availability
 
 White Shield is under active development. The production source code and detection pipeline are maintained in a private repository. This public repository provides project documentation, demonstrations, architecture overviews, and development progress.
