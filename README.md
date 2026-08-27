@@ -8,9 +8,24 @@
 
 
 
-
+# What is White Shield? 
 
 Chrome Extension to detect videos on Youtube for AI intergration, repost from original creator and scan for any inserted portions that may contain alterations to original video
+
+# Why was this created? 
+
+As a father, I found more and more videos my children viewed to be made with AI or a video of a known popular creator to be reposted by a different Poster and then running into the danger of having my children watch an edited video with something dangerous or potential something meant for an older audience to be placed in the middle of the video and shown to them. Naturally this caused a worry for myself and I searched for any active filters that can monitor and inform me about videos that could have these issues. I come to find out that in this day and age of AI and everything being ran through the internet, there is not really anything like what i have been looking for in the market yet. 
+
+And so, I decided to create something for my own children, for their safety to watch what they are meant to watch specifically on Youtube and have it actively monitor each video playing for these subjects that i pointed out. 
+
+What I want this extension to accomplish is as follows,
+
+1. Notify me when a AI video is detected.
+2. Verify video quality and authenticity and if it is reposted by another creator, to notify me that this video "looks like it came from a different creator"
+3. Monitor actively each video every 6-10 seconds for any alterations that maybe inserted if the video is a repost from an original creator
+
+these are the hard wants of this extension to become, but all of these points come with big challenges to overcome. 
+This is my journey. 
 
 
 
