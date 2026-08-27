@@ -24,13 +24,13 @@ After connecting my github to my Desktop App and creating a folder to start the 
 
 <p align="center">
   <img src="assests/1st_photo.png"
-       alt="White Shield - Children's Video Integrity & Safety"
+       alt="1stphoto"
        width="100%" />
 </p>
 
 <p align="center">
   <img src="assests/2nd_photo.png"
-       alt="White Shield - Children's Video Integrity & Safety"
+       alt="2ndphoto"
        width="100%" />
 </p>
 
@@ -44,7 +44,7 @@ Now to see your notepad hidden file extension, you must click view on the top of
 
 <p align="center">
   <img src="assests/3rd_photo.png"
-       alt="White Shield - Children's Video Integrity & Safety"
+       alt="3rd"
        width="100%" />
 </p>
 
