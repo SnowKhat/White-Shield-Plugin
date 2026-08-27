@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/white_shield_banner.png"
+  <img src="assests/white_shield_banner.png"
        alt="White Shield - Children's Video Integrity & Safety"
        width="100%" />
 </p>
